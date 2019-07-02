@@ -14,5 +14,8 @@ Go to:
 ### Subtitle 2
 
 
+For more information about me please follow [About](about.md)
+
+
 
 
