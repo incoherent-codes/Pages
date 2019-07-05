@@ -9,11 +9,14 @@ Go to:
 
 
 ### cl2pd
-This code is a wrapper of pyTimber exporting the CERN Logging data in pandas dataframe
 https://github.com/sterbini/cl2pd
+This code is a wrapper of pyTimber exporting the CERN Logging data in pandas dataframe.
 The master branch is for Py2, the branch 'py3' is for Py3. At the moment we are developing mainly for in the 'py3' branch.
 All details and examples on the github repositories.
 
+### cpymad
+https://github.com/hibtc/cpymad
+cpymad is a Cython binding to MAD-X for giving full control and access to a MAD-X interpreter within the python environment.
 
 ### Simulating LHC
 A notebook with instructions for getting [LHC Data](Simulating_LHC/Simulating_LHC.md)
