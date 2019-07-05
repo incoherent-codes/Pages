@@ -1,6 +1,6 @@
 # A collection of useful tools 
 
-The purpose of this webpage is to collect revelant information for the working flow of our team (mainly focused on beam dynamics of incoherrent effects).
+The purpose of this webpage is to collect relevant information for the working flow of our team (mainly focused on beam dynamics of incoherrent effects).
 
 This is a GitHub page created under the [incoherent-codes](http://github.com/incoherent-codes) organization to test how it could look like because birectional repository syncing is not yet there.
 
