@@ -19,8 +19,13 @@ All details and examples on the github repositories.
 A notebook with instructions for getting [LHC Data](Simulating_LHC/Simulating_LHC.md)
 
 ### Useful links
+
+---
+
 #### http://information-technology.web.cern.ch/services/cern-commercial
-To find the CERN alternative to commercial software.
+Find the CERN alternative to commercial software.
+
+---
 
 #### https://mathpix.com/
 Take a screenshot of math and paste the LaTeX into your editor, all with a single keyboard shortcut.
