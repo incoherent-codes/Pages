@@ -21,7 +21,7 @@ cpymad is a Cython binding to MAD-X for giving full control and access to a MAD-
 ### Simulating LHC
 A notebook with instructions for getting [LHC Data](Simulating_LHC/Simulating_LHC.md)
 
-This is a test [test](BB\ linearization.ipynb)
+This is a test [test](test/PhaseAdvanceBetweenIPs.ipynb)
 
 
 ### Useful links
